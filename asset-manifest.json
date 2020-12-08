@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kakao_react/static/css/main.74b41ae2.chunk.css",
+    "main.css": "/kakao_react/static/css/main.b8a5a390.chunk.css",
     "main.js": "/kakao_react/static/js/main.b1487fa5.chunk.js",
     "main.js.map": "/kakao_react/static/js/main.b1487fa5.chunk.js.map",
     "runtime-main.js": "/kakao_react/static/js/runtime-main.b7223d20.js",
@@ -8,7 +8,7 @@
     "static/js/2.8b3dc689.chunk.js": "/kakao_react/static/js/2.8b3dc689.chunk.js",
     "static/js/2.8b3dc689.chunk.js.map": "/kakao_react/static/js/2.8b3dc689.chunk.js.map",
     "index.html": "/kakao_react/index.html",
-    "static/css/main.74b41ae2.chunk.css.map": "/kakao_react/static/css/main.74b41ae2.chunk.css.map",
+    "static/css/main.b8a5a390.chunk.css.map": "/kakao_react/static/css/main.b8a5a390.chunk.css.map",
     "static/js/2.8b3dc689.chunk.js.LICENSE.txt": "/kakao_react/static/js/2.8b3dc689.chunk.js.LICENSE.txt",
     "static/media/kakaofriends.84375bb9.png": "/kakao_react/static/media/kakaofriends.84375bb9.png",
     "static/media/kakaostory.572f3ce5.png": "/kakao_react/static/media/kakaostory.572f3ce5.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b7223d20.js",
     "static/js/2.8b3dc689.chunk.js",
-    "static/css/main.74b41ae2.chunk.css",
+    "static/css/main.b8a5a390.chunk.css",
     "static/js/main.b1487fa5.chunk.js"
   ]
 }
